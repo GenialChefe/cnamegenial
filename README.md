@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guilherme Paiva - Portfólio Profissional</title>
+    <title>GENIAL COMPANY® - SITE EM CONSTRUÇÃO</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -114,24 +114,25 @@
 
     <section id="about" class="section about">
         <h2>Sobre Mim</h2>
-        <p>Genial Global Company (GGC), sob a liderança de Guilherme Paiva, 32 anos, é sinônimo de resultados excepcionais em gestão de tráfego online. Com 10 anos de experiência, GGC nasceu da fusão inovadora entre serviços de motoboy e design de mídias sociais, revolucionando o mercado. Combinando eficiência logística e criatividade, impulsionamos negócios rumo ao sucesso.</p>
+        <p>Genial Company, sob a liderança de Guilherme Paiva, 32 anos, é sinônimo de resultados excepcionais em gestão de marketing e tráfego online. Com 10 anos de experiência, Genial nasceu da fusão inovadora entre serviços de motoboy e design de mídias sociais, observando a necessidade dos comerciantes locais e vendedores e-commerce de coletar clientes para atrair mais vendas, vimos ali a oportunidade de fazer esta revolução poderosa no mercado. Fazer a junção perfeita do seu produto ou serviço com a audiência correta! Combinando eficiência, logística e criatividade vamos impulsionar seus negócios rumo ao sucesso. 
+</p>
     </section>
 
     <section id="vlog" class="section vlog">
         <h2>Dayli Vlog</h2>
-        <p>Acompanhe o meu dia-a-dia no trabalho e veja como são executados os projetos na prática.</p>
+        <p>Acompanhe o meu dia-a-dia no facebook e instagram GENIAL COMPANY</p>
         <!-- Embed de vídeos do YouTube ou outra plataforma -->
     </section>
 
     <section id="projects" class="section projects">
         <h2>Projetos</h2>
-        <p>Aqui você pode ver alguns dos projetos que executei na área de gestão de tráfego online e marketing digital.</p>
+        <p>VEJA MAIS PROJETOS NO INSTAGRAM E FACEBOOK GENIAL COMPANY®</p>
         <!-- Lista de projetos -->
     </section>
 
     <section id="gallery" class="section gallery">
         <h2>Galeria</h2>
-        <p>Confira algumas fotos dos projetos e do meu dia-a-dia.</p>
+        <p>Confira algumas fotos dos projetos e do meu dia-a-dia NO FACEBOOK E INSTAGRAM.</p>
         <!-- Imagens da galeria -->
         <img src="foto1.jpg" alt="Foto 1">
         <img src="foto2.jpg" alt="Foto 2">
@@ -140,7 +141,7 @@
 
     <section id="contact" class="section contact">
         <h2>Contato</h2>
-        <p>Entre em contato comigo para saber mais sobre como posso ajudar a impulsionar o seu negócio.</p>
+        <p>Entre em contato comigo (genialglobalcompany@gmail.com) para saber mais sobre como posso ajudar a impulsionar o seu negócio.</p>
         <form action="mailto:seu-email@exemplo.com" method="post" enctype="text/plain">
             <label for="name">Nome:</label>
             <input type="text" id="name" name="name" required>
@@ -158,7 +159,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2024 Guilherme Paiva - Genial Global Company. Todos os direitos reservados.</p>
+    <p>&copy; 2024 GENIAL COMPANY® - Genial Global Company. Todos os direitos reservados.</p>
 </footer>
 
 </body>
